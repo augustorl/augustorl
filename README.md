@@ -7,7 +7,7 @@
 
 ### 📫 How to reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin,</a> <a href="https://augustoleite.com"> Website.</a>
 
-### ⚙ Techs i generally use: <a href="https://linkedin.com/in/augustorl"> React,</a> <a href="https://linkedin.com/in/augustorl"> Typescript and </a> <a href="https://linkedin.com/in/augustorl"> NodeJS.</a> 
+### ⚙ Techs i generally use: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS.</a> 
 
 <!--
 **augustorl/augustorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
