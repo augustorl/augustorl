@@ -1,6 +1,6 @@
 
 
-# Hey, you found me! I am a Front-end developer from Brazil, currently working from home to build awesome applications.
+# Hey, you found me! I am a Front end developer from Brazil, working to build awesome applications.
 
 ### ⚙ Techs i generally use: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS.</a> 
 
