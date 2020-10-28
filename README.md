@@ -1,4 +1,10 @@
+
+
 # Hey, you found me! I am a Front-end developer from Brazil, currently working from home to build awesome applications.
+
+### 🔭 I’m currently working on [kd minha bike](https://github.com/augustorl/kdminhabike)
+
+### 📫 How to reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin </a>, <a href="https://augustoleite.com"> Portfólio </a>
 
 <!--
 **augustorl/augustorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
