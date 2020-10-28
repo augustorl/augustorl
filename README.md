@@ -2,12 +2,15 @@
 
 # Hey, you found me! I am a Front-end developer from Brazil, currently working from home to build awesome applications.
 
-### 🔭 I’m currently working on [Old Pokédex!](https://github.com/augustorl/oldpokedex).
+### ⚙ Techs i generally use: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS.</a> 
+
+
+### 🔭 I’m currently working on [Old Pokédex](https://github.com/augustorl/oldpokedex).
 
 
 ### 📫 How to reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin,</a> <a href="https://augustoleite.com"> Website.</a>
 
-### ⚙ Techs i generally use: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS.</a> 
+
 
 <!--
 **augustorl/augustorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
