@@ -1,5 +1,4 @@
-# Hey, you found me! 
-#I am a Front-end developer from Brazil, currently working from home to build awesome things.
+# Hey, you found me! I am a Front-end developer from Brazil, currently working from home to build awesome applications.
 
 <!--
 **augustorl/augustorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
