@@ -4,7 +4,8 @@
 
 ### 🔭 I’m currently working on [kd minha bike](https://github.com/augustorl/kdminhabike)
 
-### 📫 How to reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin </a>, <a href="https://augustoleite.com"> Portfólio </a>
+
+### 📫 How to reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin,</a> <a href="https://augustoleite.com"> Website</a>
 
 <!--
 **augustorl/augustorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
