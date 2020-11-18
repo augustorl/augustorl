@@ -14,7 +14,7 @@
 
 
 
-### 📫 How to reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin,</a> <a href="https://augustoleite.com"> Website.</a>
+### 📫 How to reach me: <a href="https://augustoleite.com"> Website,</a><a href="https://linkedin.com/in/augustorl"> Linkedin.</a> 
 
 
 
