@@ -5,7 +5,7 @@
 ### ⚙ Techs i generally use: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS.</a> 
 
 
-### 🌱 I’m currently working : [Next Portfólio](https://github.com/augustorl/next-portfolio).
+### 🌱 I’m currently working : [Next Portfólio](https://github.com/augustorl/portfolio-nextjs).
 
 
 
