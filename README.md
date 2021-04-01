@@ -12,7 +12,7 @@
 ### 🔭 My latest project: [Old Pokédex](https://github.com/augustorl/oldpokedex).
 
 
-### 🖥 Online portfolio: [@augustoleite.com](https://augustoleite.com).
+### 🖥 Online portfolio: [augustoleite.com](https://augustoleite.com).
 
 
 ### 📫 How to reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin.</a> 
