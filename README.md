@@ -18,7 +18,7 @@
 ### 📫 How to reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin.</a> 
 
 
-![augustorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustorl)
+![augustorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustorl&show_icons=true&theme=radical))
 <!--
 **augustorl/augustorl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
