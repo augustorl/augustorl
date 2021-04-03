@@ -5,11 +5,11 @@
 ### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS.</a> 
 
 
-### 🌱 Currently working on: [Next Portfólio](https://github.com/augustorl/portfolio-nextjs).
+### 🌱 Currently working on:[Rentx API](https://github.com/augustorl/Ignite-CarAPI)
 
 
 
-### 🔭 Latest project: [Old Pokédex](https://github.com/augustorl/oldpokedex).
+### 🔭 Latest project: [Portfólio NextJS](https://github.com/augustorl/portfolio-nextjs).
 
 
 ### 🖥 Online portfolio: [augustoleite.com](https://augustoleite.com).
