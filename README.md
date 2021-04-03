@@ -5,7 +5,7 @@
 ### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS.</a> 
 
 
-### 🌱 Currently working on:[Rentx API](https://github.com/augustorl/Ignite-CarAPI)
+### 🌱 Currently working on:[Rentx API](https://github.com/augustorl/Ignite-CarAPI).
 
 
 
