@@ -2,7 +2,7 @@
 
 # Hey, you found me! I am a self-taught Frontend developer working from home to build scalable & pixel perfect applications.
 
-### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS.</a> 
+### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a href="https://nodejs.org/en/"> NodeJS</a>.
 
 
 ### 🌱 Currently working on: [Rentx API](https://github.com/augustorl/Ignite-CarAPI).
