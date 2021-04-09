@@ -9,7 +9,7 @@
 
 
 
-### 🔭 Latest project: [Portfólio NextJS](https://github.com/augustorl/portfolio-nextjs).
+### 🔭 Latest project: [Portfolio NextJS](https://github.com/augustorl/portfolio-nextjs).
 
 
 ### 🖥 Online portfolio: [augustoleite.com](https://augustoleite.com).
