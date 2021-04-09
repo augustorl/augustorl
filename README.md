@@ -15,7 +15,7 @@
 ### 🖥 Online portfolio: [augustoleite.com](https://augustoleite.com).
 
 
-### 📫 Reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin.</a> 
+### 📫 Reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin</a>.
 
 
 ![augustorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustorl&show_icons=true&theme=dracula)
