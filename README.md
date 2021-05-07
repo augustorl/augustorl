@@ -3,12 +3,7 @@
 # Hey, you found me! I am a self-taught Fullstack developer working from home to build scalable & pixel perfect applications.
 
 
-
-
-<table>
- <tr>
-  <td>    
-      ### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a         href="https://nodejs.org/en/"> NodeJS</a>.
+## ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a         href="https://nodejs.org/en/"> NodeJS</a>.
 
       ### 🌱 Currently working on: [Rentx API](https://github.com/augustorl/Ignite-CarAPI).
 
@@ -19,12 +14,9 @@
 
 
       ### 📫 Reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin</a>.
-  </td>
-  <td>
-    ![augustorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustorl&show_icons=true&theme=dracula)
-  </td>
- </tr>
-</table>
+      
+![augustorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustorl&show_icons=true&theme=dracula)
+
 
 
 <!--
