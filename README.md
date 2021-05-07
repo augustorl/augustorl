@@ -7,9 +7,7 @@
 
 <table>
  <tr>
-  <td>
-    <pre>
-    
+  <td>    
       ### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a         href="https://nodejs.org/en/"> NodeJS</a>.
 
       ### 🌱 Currently working on: [Rentx API](https://github.com/augustorl/Ignite-CarAPI).
@@ -21,7 +19,6 @@
 
 
       ### 📫 Reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin</a>.
-    </pre>
   </td>
   <td>
     ![augustorl's GitHub stats](https://github-readme-stats.vercel.app/api?username=augustorl&show_icons=true&theme=dracula)
