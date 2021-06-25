@@ -5,9 +5,9 @@
 
 ### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a         href="https://nodejs.org/en/"> NodeJS</a>.
 
-#### 🌱 Currently working on: [Rentx API](https://github.com/augustorl/Ignite-CarAPI).
+#### 🌱 Currently working on: [LetMeAsk](https://github.com/augustorl/LetMeAsk-NLW-05).
 
-### 🔭 Latest project: [Portfolio](https://github.com/augustorl/augustoleite.com).
+### 🔭 Latest project: [Rentx API](https://github.com/augustorl/Ignite-CarAPI).
 
 ### 🖥 Online portfolio: [augustoleite.com](https://augustoleite.com).
 
