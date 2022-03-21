@@ -5,9 +5,7 @@
 
 ### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a         href="https://nodejs.org/en/"> NodeJS</a>.
 
-### 🔗 Currently working on: [MyTokens](https://github.com/augustorl/mytokens).
-
-### 🔭 Latest project: [LetMeAsk](https://github.com/augustorl/LetMeAsk-NLW-05).
+### ✨ Featured Project: [Old Pokedéx](https://github.com/augustorl/oldpokedex).
 
 ### 🖥 Online portfolio: [augustoleite.com](https://augustoleite.com).
 
