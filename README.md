@@ -1,6 +1,6 @@
 
 
-## Hey, you found me! I am a self-taught Fullstack developer working at [Rhizom](http://rhizom.me) to build scalable & pixel perfect Dapps and other Web3 solutions.
+## Hey, you found me! I am a self-taught Web3 Front end developer working at [Seedify](http://seedfy.fund) to build scalable & pixel perfect Dapps and other Web3 solutions.
 
 
 ### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a         href="https://nodejs.org/en/"> NodeJS</a>.
