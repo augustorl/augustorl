@@ -3,7 +3,7 @@
 ## Hey, you found me! I am a self-taught Web3 Front end developer working at [Seedify](http://seedfy.fund) to build scalable & pixel perfect Dapps and other Web3 solutions.
 
 
-### ⚙ Techs used: <a href="https://pt-br.reactjs.org/"> React,</a> <a href="https://www.typescriptlang.org/"> Typescript</a> and  <a         href="https://nodejs.org/en/"> NodeJS</a>.
+### ⚙ Techs used: <a href="https://www.typescriptlang.org/">Typescript,</a> <a href="https://pt-br.reactjs.org/"> React,</a> <a         href="https://nodejs.org/en/"> NodeJS</a> and <a href="https://soliditylang.org"> Solidity</a>.
 
 ### ✨ Featured Project: [Old Pokedéx](https://github.com/augustorl/oldpokedex).
 
