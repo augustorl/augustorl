@@ -5,9 +5,7 @@
 
 ### ⚙ Techs used: <a href="https://www.typescriptlang.org/">Typescript,</a> <a href="https://pt-br.reactjs.org/"> React,</a> <a         href="https://nodejs.org/en/"> NodeJS</a> and <a href="https://soliditylang.org"> Solidity</a>.
 
-### ✨ Featured Project: [Old Pokedéx](https://github.com/augustorl/oldpokedex).
-
-### 🖥 Online portfolio: [augustoleite.com](https://augustoleite.com).
+### ✨ Most Stared Project: [Old Pokedéx](https://github.com/augustorl/oldpokedex).
 
 ### 📫 Reach me: <a href="https://linkedin.com/in/augustorl"> Linkedin</a>.
 
